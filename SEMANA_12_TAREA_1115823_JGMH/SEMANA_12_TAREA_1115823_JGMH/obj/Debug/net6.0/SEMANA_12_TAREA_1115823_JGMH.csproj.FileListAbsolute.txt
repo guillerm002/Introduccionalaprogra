@@ -1,0 +1,4 @@
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\SEMANA_12_TAREA_1115823_JGMH\SEMANA_12_TAREA_1115823_JGMH\obj\Debug\net6.0\SEMANA_12_TAREA_1115823_JGMH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\SEMANA_12_TAREA_1115823_JGMH\SEMANA_12_TAREA_1115823_JGMH\obj\Debug\net6.0\SEMANA_12_TAREA_1115823_JGMH.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\SEMANA_12_TAREA_1115823_JGMH\SEMANA_12_TAREA_1115823_JGMH\obj\Debug\net6.0\SEMANA_12_TAREA_1115823_JGMH.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\SEMANA_12_TAREA_1115823_JGMH\SEMANA_12_TAREA_1115823_JGMH\obj\Debug\net6.0\SEMANA_12_TAREA_1115823_JGMH.csproj.CoreCompileInputs.cache
