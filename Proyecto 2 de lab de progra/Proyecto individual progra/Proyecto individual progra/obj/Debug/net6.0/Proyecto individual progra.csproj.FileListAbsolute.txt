@@ -1,0 +1,14 @@
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\bin\Debug\net6.0\Proyecto individual progra.exe
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\bin\Debug\net6.0\Proyecto individual progra.deps.json
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\bin\Debug\net6.0\Proyecto individual progra.runtimeconfig.json
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\bin\Debug\net6.0\Proyecto individual progra.dll
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\bin\Debug\net6.0\Proyecto individual progra.pdb
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.dll
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\refint\Proyecto individual progra.dll
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.pdb
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\Proyecto individual progra.genruntimeconfig.cache
+C:\Users\joseg\OneDrive\Escritorio\Intro a la progra\Proyecto individual progra\Proyecto individual progra\obj\Debug\net6.0\ref\Proyecto individual progra.dll
